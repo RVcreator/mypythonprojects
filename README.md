@@ -29,7 +29,7 @@ git clone https://github.com/RVcreator/mypythonprojects.git
 
 Navigate into the folder:
 
-cd small-python-projects
+cd mypythonprojects
 
 
 Run any project:
